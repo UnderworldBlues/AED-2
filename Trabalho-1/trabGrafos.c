@@ -446,7 +446,7 @@ int main ()
     lerArquivo(&grafo);
     
     do{
-        printf("voce deseja:\n1-Vizualizar o grafo\n2-Buscar coautores\n3-Buscar coautores com um numero de artigos especifico\n4-Buscar componentes fortemente conexos\n5-Procurar caminho de custo minimo entre dois vertices\n6-Sair\n");
+        printf("voce deseja:\n1-Visualizar o grafo\n2-Buscar coautores\n3-Buscar coautores com um numero de artigos especifico\n4-Buscar componentes fortemente conexos\n5-Procurar caminho de custo minimo entre dois vertices\n6-Sair\n");
         scanf("%d", &opc);
         if((opc < 1)||(opc > 6))
         {
