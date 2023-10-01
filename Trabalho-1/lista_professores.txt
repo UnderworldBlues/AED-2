@@ -1,0 +1,101 @@
+Andre Ricardo Backes, Mauricio Cunha Escarpinati, 10
+Andre Ricardo Backes, Marcelo Keese Albertini, 5
+Andre Ricardo Backes, Bruno Augusto Nassif Travencolo, 3
+Andre Ricardo Backes, Leandro Nogueira Couto, 3
+Andre Ricardo Backes, Thiago Pirola Ribeiro, 2
+Bruno Augusto Nassif Travencolo, Marcelo Zanchetta do Nascimento, 6
+Bruno Augusto Nassif Travencolo, Marcelo Keese Albertini, 5 
+Bruno Augusto Nassif Travencolo, Elaine Ribeiro de Faria Paiva, 4
+Bruno Augusto Nassif Travencolo, Andre Ricardo Backes, 3
+Bruno Augusto Nassif Travencolo, Fabiola Souza Fernandes Pereira, 2
+Bruno Augusto Nassif Travencolo, Gina Maira Barbosa de Oliveira, 2
+Carlos Roberto Lopes, Fabiano Azevedo Dorca, 5
+Carlos Roberto Lopes, Marcia Aparecida Fernandes, 5
+Elaine Ribeiro de Faria Paiva, Maria Camila Nardini Barioni, 6
+Elaine Ribeiro de Faria Paiva, Bruno Augusto Nassif Travencolo, 4
+Elaine Ribeiro de Faria Paiva, Rita Maria da Silva Julia, 4
+Elaine Ribeiro de Faria Paiva, Paulo Henrique Ribeiro Gabriel, 1
+Elaine Ribeiro de Faria Paiva, Fabiola Souza Fernandes Pereira, 1
+Elaine Ribeiro de Faria Paiva, Humberto Luiz Razente, 1
+Fabiano Azevedo Dorca, Rafael Dias Araujo, 15
+Fabiano Azevedo Dorca, Marcia Aparecida Fernandes, 5
+Fabiano Azevedo Dorca, Carlos Roberto Lopes, 5
+Fabiola Souza Fernandes Pereira, Bruno Augusto Nassif Travencolo, 2
+Fabiola Souza Fernandes Pereira, Gina Maira Barbosa de Oliveira, 1
+Flavio de Oliveira Silva, Pedro Frosi Rosa, 40
+Flavio de Oliveira Silva, Lasaro Jonas Camargos, 1
+Gina Maira Barbosa de Oliveira, Luiz Gustavo Almeida Martins, 17
+Gina Maira Barbosa de Oliveira, Murillo Guimaraes Carneiro, 6
+Gina Maira Barbosa de Oliveira,	Mauricio Cunha Escarpinati, 5
+Gina Maira Barbosa de Oliveira,	Bruno Augusto Nassif Travencolo, 2
+Gina Maira Barbosa de Oliveira,	Andre Ricardo Backes, 1
+Gina Maira Barbosa de Oliveira,	Stephane Julia, 1
+Gina Maira Barbosa de Oliveira,	Fabiola Souza Fernandes Pereira, 1
+Henrique Coelho Fernandes, Marcelo Keese Albertini, 1
+Henrique Coelho Fernandes, Marcelo Zanchetta do Nascimento, 1
+Henrique Coelho Fernandes, Rita Maria da Silva Julia, 1
+Humberto Luiz Razente, Maria Camila Nardini Barioni, 30
+Humberto Luiz Razente, Elaine Ribeiro de Faria Paiva, 1
+Jefferson Rodrigo de Souza, Elaine Ribeiro de Faria Paiva, 2
+Jefferson Rodrigo de Souza, Andre Ricardo Backes, 2
+Jefferson Rodrigo de Souza, Murillo Guimaraes Carneiro, 1
+Jefferson Rodrigo de Souza, Renan Goncalves Cattelan, 1
+Jefferson Rodrigo de Souza, Bruno Augusto Nassif Travencolo, 1
+Joao Henrique de Souza Pereira, Pedro Frosi Rosa, 9
+Joao Henrique de Souza Pereira, Fabiola Souza Fernandes Pereira, 2
+Jose Gustavo de Souza Paiva, Bruno Augusto Nassif Travencolo, 5
+Jose Gustavo de Souza Paiva, Fabiola Souza Fernandes Pereira, 2
+Lasaro Jonas Camargos, Rafael Pasquini, 9
+Lasaro Jonas Camargos, Rodrigo Sanches Miani, 2
+Lasaro Jonas Camargos, Fabiola Souza Fernandes Pereira, 1
+Lasaro Jonas Camargos, Flavio de Oliveira Silva, 1
+Lasaro Jonas Camargos, Pedro Frosi Rosa, 1
+Lasaro Jonas Camargos, Elaine Ribeiro de Faria Paiva, 1
+Laurence Rodrigues do Amaral, Gina Maira Barbosa de Oliveira, 2
+Laurence Rodrigues do Amaral, Luiz Gustavo Almeida Martins, 2
+Leandro Nogueira Couto, Thiago Pirola Ribeiro, 1
+Luiz Gustavo Almeida Martins, Gina Maira Barbosa de Oliveir, 17
+Luiz Gustavo Almeida Martins, Laurence Rodrigues do Amaral, 2
+Marcelo de Almeida Maia, Stephane Julia, 1
+Marcelo de Almeida Maia, Bruno Augusto Nassif Travencolo, 1
+Marcelo Keese Albertini, Andre Ricardo Backes, 5
+Marcelo Keese Albertini, Bruno Augusto Nassif Travencolo, 5
+Marcelo Keese Albertini, Paulo Henrique Ribeiro Gabriel, 1
+Marcelo Keese Albertini, Rita Maria da Silva Julia, 1
+Marcelo Zanchetta do Nascimento, Bruno Augusto Nassif Travencolo, 6
+Marcelo Zanchetta do Nascimento, Rita Maria da Silva Julia, 2
+Marcia Aparecida Fernandes, Fabiano Azevedo Dorca, 5
+Marcia Aparecida Fernandes, Carlos Roberto Lopes, 5
+Marcia Aparecida Fernandes, Rivalino Matias Junior, 1
+Maria Camila Nardini Barioni, Humberto Luiz Razente, 30
+Maria Camila Nardini Barioni, Elaine Ribeiro de Faria Paiva, 6
+Mauricio Cunha Escarpinati, Andre Ricardo Backes, 10
+Mauricio Cunha Escarpinati, Gina Maira Barbosa de Oliveira, 2
+Murillo Guimaraes Carneiro, Gina Maira Barbosa de Oliveira, 6
+Murillo Guimaraes Carneiro, Jefferson Rodrigo de Souza, 1
+Murillo Guimaraes Carneiro, Rodrigo Sanches Miani, 1
+Paulo Henrique Ribeiro Gabriel, Rodrigo Sanches Miani, 1
+Paulo Rodolfo da Silva Leite Coelho, Rafael Pasquini, 5
+Pedro Frosi Rosa, Rafael Pasquini, 2
+Pedro Frosi Rosa, Rodrigo Sanches Miani, 3
+Rafael Dias Araujo, Fabiano Azevedo Dorca, 15
+Rafael Dias Araujo, Renan Goncalves Cattelan, 14
+Rafael Pasquini, Paulo Rodolfo da Silva Leite Coelho, 5
+Rafael Pasquini, Pedro Frosi Rosa, 2
+Rafael Pasquini, Rodrigo Sanches Miani, 2
+Rafael Pasquini, Fabiola Souza Fernandes Pereira, 1
+Renan Goncalves Cattelan, Rafael Dias Araujo, 14
+Renan Goncalves Cattelan, Rodrigo Sanches Miani, 1
+Rita Maria da Silva Julia, Rivalino Matias Junior, 1
+Rita Maria da Silva Julia, Stephane Julia, 1
+Rivalino Matias Junior, Rita Maria da Silva Julia, 1
+Rivalino Matias Junior, Marcia Aparecida Fernandes, 1
+Rodrigo Sanches Miani, Elaine Ribeiro de Faria Paiva, 5
+Rodrigo Sanches Miani, Pedro Frosi Rosa, 3
+Rodrigo Sanches Miani, Murillo Guimaraes Carneiro ,1
+Rodrigo Sanches Miani, Paulo Henrique Ribeiro Gabriel, 1
+Rodrigo Sanches Miani, Renan Goncalves Cattelan, 1
+Stephane Julia, Gina Maira Barbosa de Oliveira, 1
+Stephane Julia, Rita Maria da Silva Julia, 1
+Thiago Pirola Ribeiro, Andre Ricardo Backes, 1
+Thiago Pirola Ribeiro, Leandro Nogueira Couto, 1
