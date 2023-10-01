@@ -343,7 +343,7 @@ void imprimeGrafo(tipoGrafo *grafo)
             // imprime o nome do coautor
             printf("%s ", grafo->professor[aux2->item.vertice]);
             // e o numero de artigos que eles tem juntos
-            printf("(%d), ", aux2->item.numArtigos);
+            printf("(%d) ", aux2->item.numArtigos);
             // e avança para o proximo nó
             aux2 = aux2->prox;
         }
