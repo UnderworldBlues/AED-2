@@ -7,7 +7,7 @@
 #define FALSE           0
 #define TRUE            1
 
-// MAIN NA LINHA 305
+// MAIN NA LINHA 439
 
 // removi aquele execesso de typedefs pra ficar mais facil de ler
 typedef struct tipoNode tipoNode;
