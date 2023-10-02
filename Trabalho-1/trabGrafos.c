@@ -7,7 +7,7 @@
 #define FALSE           0
 #define TRUE            1
 
-// MAIN NA LINHA 439
+// MAIN NA LINHA 305
 
 // removi aquele execesso de typedefs pra ficar mais facil de ler
 typedef struct tipoNode tipoNode;
@@ -343,7 +343,7 @@ void imprimeGrafo(tipoGrafo *grafo)
             // imprime o nome do coautor
             printf("%s ", grafo->professor[aux2->item.vertice]);
             // e o numero de artigos que eles tem juntos
-            printf("(%d) ", aux2->item.numArtigos);
+            printf("(%d), ", aux2->item.numArtigos);
             // e avança para o proximo nó
             aux2 = aux2->prox;
         }
@@ -496,7 +496,6 @@ int main ()
                 break;
             case 5:
                 printf("devido as limitações da linguagem C, pedimos que o usuario omita acentos, caracteres especiais e que leia a cedilha como o caractere C\n");
-               // função para encontrar o caminho de custo mínimo entre dois vértices (Professores(as) P1 e P2), usando fila de prioridades com heap
                 printf("digite o nome do professor de origem\n");
                 fflush(stdin);
                 scanf ("%[^\n]%*c", nome);
