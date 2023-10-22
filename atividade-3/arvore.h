@@ -1,26 +1,30 @@
-typedef struct tipoChave {
-    char cep[50];
-    char estado[10];
-    char cidade[50];
-    char endereco[50];
-} tipoChave;
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-typedef struct tipoNo tipoNo;
-typedef tipoNo *tipoApontador;
+typedef struct tipoItem {
+    char cep[100];
+    char estado[100];
+    char cidade[100];
+    char endereco[100];
+    // chave vai ser usado para ordenar a arvore
+    // o conteudo dela vai ser os 5 primeiros digitos do cep 
+    int chave;
+} tipoItem;
 
 typedef struct tipoNo {
-    tipoChave chave;
-    tipoApontador esq, dir;
+    tipoItem item;
+    struct tipoNo *esq;
+    struct tipoNo *dir;
 } tipoNo;
 
-// tipo arvore vai apontar para um tipoNo e agir como a raiz da arvore
-typedef tipoApontador tipoArvore;
+typedef tipoNo *tipoArvore;
 
 tipoArvore* inicializaArvore();
-int arvoreVazia(tipoArvore arvore);
-void insereArvore(tipoApontador no, tipoChave item);
-void removeArvore(tipoArvore arvore, tipoChave chave);
-void central(tipoArvore arvore);
-void antecessor(tipoApontador q, tipoApontador *r);
-void pesquisaArvore(tipoApontador no, tipoApontador retorno, char *chave);
-int lerArquivo(tipoArvore *arvore, char *nomeArquivo);
+int alturaArvore (tipoArvore *raiz);
+void antecessor (tipoNo *q, tipoNo *r);
+void retira (tipoArvore *raiz, int x);
+void mostraArvorePosOrdem (tipoArvore *raiz);
+int insereArvore (tipoArvore *raiz, tipoItem item);
+tipoItem pesquisaArvore (tipoArvore *raiz, int chave);
+void leituraArquivo(tipoArvore *arvore, char *nomeArquivo);
